@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="fontes"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fontes">
+				<Option output="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/fontes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include-fixed"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 fontes"/>
+					<CompileFile command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fontes/fast">
+				<Option output="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/fontes.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/include-fixed"/>
+					<Add directory="c:\qt\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/4.8.1/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 fontes/fast"/>
+					<CompileFile command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/QT/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/dialog.cpp">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/dialog.h">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/ldp_solucao.cpp">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/ldp_solucao.h">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/lu_solucao.cpp">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/lu_solucao.h">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/main.cpp">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/mainwindow.cpp">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/mainwindow.h">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/matriz.cpp">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/matriz.h">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/methods.h">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/operacoes.cpp">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/operacoes.h">
+			<Option target="fontes"/>
+		</Unit>
+		<Unit filename="C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

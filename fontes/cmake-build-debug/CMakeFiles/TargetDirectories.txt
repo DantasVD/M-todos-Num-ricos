@@ -1,0 +1,3 @@
+C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/CMakeFiles/fontes.dir
+C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/T-Gamer/Desktop/Metodos_Trabalho2_v1_static/fontes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
